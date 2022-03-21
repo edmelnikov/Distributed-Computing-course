@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\Documents\studies\distributed computing\lab1\lab1\main.cpp(110,10): warning C4101: 'speedup': unreferenced local variable
+C:\Users\user\Documents\studies\distributed computing\lab1\lab1\main.cpp(111,10): warning C4101: 'efficiency': unreferenced local variable
+  lab1.vcxproj -> C:\Users\user\Documents\studies\distributed computing\lab1\Debug\lab1.exe
