@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\user\Documents\studies\distributed computing\lab2\lab2\main.cpp(167,10): warning C4101: 'recv_arr': unreferenced local variable
+  lab2.vcxproj -> C:\Users\user\Documents\studies\distributed computing\lab2\x64\Debug\lab2.exe
