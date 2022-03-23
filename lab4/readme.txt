@@ -1,0 +1,1 @@
+mpiexec -localonly 4 lab4.exe
